@@ -1,4 +1,4 @@
-# Building a simple Note Taker app following MVVM Architectural Pattern 
+# Building a simple Note Taker app with MVVM
 ## About the App:
 * Architecture: MVVM (Model View ViewModel)
 * Programming Language: Java
